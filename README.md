@@ -2,6 +2,8 @@
 
 Embeding twitter timeline in flutter web.
 
+![plot](assets/imgs/fina_output.png) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
