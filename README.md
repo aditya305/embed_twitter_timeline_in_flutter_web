@@ -1,4 +1,4 @@
-# twitterinflutterweb
+# Twitter In Flutter Web
 
 Embeding twitter timeline in flutter web.
 
