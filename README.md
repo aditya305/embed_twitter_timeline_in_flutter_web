@@ -9,3 +9,8 @@ Twitter allows us to embed their tweets in multiple websites. But it does not al
 ![plot](assets/imgs/fina_output.png) 
 
 
+## Would you like to embbed tweet
+
+### Check this out
+
+https://publish.twitter.com/#
